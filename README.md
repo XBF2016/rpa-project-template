@@ -38,4 +38,4 @@
 
 ## 项目结构说明
 
-(此处可以链接到工作室的完整SOP文档)
+工作室开发完整SOP：https://github.com/XBF2016/sop.git
